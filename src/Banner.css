@@ -40,3 +40,13 @@
   background-color: #e6e6e6;
   transition: all 0.2s;
 }
+
+.banner--fadeBottom {
+  height: 140.4rem;
+  background-image: linear-gradient(
+    180deg,
+    transparent,
+    rgba(50, 12, 0, 43),
+    #111
+  );
+}
